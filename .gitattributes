@@ -1,0 +1,4 @@
+. filter=lfs diff=lfs merge=lfs -text
+2018.pdf filter=lfs diff=lfs merge=lfs -text
+asks/Exams/ШАД-Решения-VR/2018.pdf filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
